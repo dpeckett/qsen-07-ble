@@ -29,6 +29,7 @@ aht20-driver = { version = "2", default-features = false }
 bh1750 = "0.1.0"
 bme280 = "0.5.1"
 scd4x = "0.4.1"
+heapless = "0.9.1"
 
 [features]
 default = ["esp32c6"]
