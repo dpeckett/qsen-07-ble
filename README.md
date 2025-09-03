@@ -1,6 +1,6 @@
 # Qsen-07 BLE
 
-BLE [Environmental Sensing Service](https://www.bluetooth.com/specifications/specs/environmental-sensing-service-1-0/) firmware for the [Qsen-07](https://aliexpress.com/item/1005007922381128.html) environmental sensor module.
+BLE firmware for the [Qsen-07](https://aliexpress.com/item/1005007922381128.html) environmental sensor module.
 
 ## Build and flash
 
